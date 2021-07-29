@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sales By Match", "Projects\Sales By Match\Sales By Match.csproj", "{04003A3B-8F6E-4612-BC26-3191416B9868}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting Valleys", "Counting Valleys\Counting Valleys.csproj", "{1692771F-3297-4287-9FD9-EE22A0F9CEAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Counting Valleys", "Counting Valleys\Counting Valleys.csproj", "{1692771F-3297-4287-9FD9-EE22A0F9CEAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jumping On The Clouds", "Projects\Jumping On The Clouds\Jumping On The Clouds.csproj", "{638FB3E7-DAFC-498C-B14A-2498AED32F8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{1692771F-3297-4287-9FD9-EE22A0F9CEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1692771F-3297-4287-9FD9-EE22A0F9CEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1692771F-3297-4287-9FD9-EE22A0F9CEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{638FB3E7-DAFC-498C-B14A-2498AED32F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{638FB3E7-DAFC-498C-B14A-2498AED32F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{638FB3E7-DAFC-498C-B14A-2498AED32F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{638FB3E7-DAFC-498C-B14A-2498AED32F8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
