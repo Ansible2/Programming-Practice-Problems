@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Counting Valleys", "Countin
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Jumping On The Clouds", "Projects\Jumping On The Clouds\Jumping On The Clouds.vcxproj", "{1E2A2A35-8FAF-4FA3-8ACD-F137AC6B32E5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Two Strings", "Projects\Two Strings\Two Strings.vcxproj", "{6A82F84E-C202-4A9D-8A9F-3B65DA9CE311}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{1E2A2A35-8FAF-4FA3-8ACD-F137AC6B32E5}.Release|x64.Build.0 = Release|x64
 		{1E2A2A35-8FAF-4FA3-8ACD-F137AC6B32E5}.Release|x86.ActiveCfg = Release|Win32
 		{1E2A2A35-8FAF-4FA3-8ACD-F137AC6B32E5}.Release|x86.Build.0 = Release|Win32
+		{6A82F84E-C202-4A9D-8A9F-3B65DA9CE311}.Debug|x64.ActiveCfg = Debug|x64
+		{6A82F84E-C202-4A9D-8A9F-3B65DA9CE311}.Debug|x64.Build.0 = Debug|x64
+		{6A82F84E-C202-4A9D-8A9F-3B65DA9CE311}.Debug|x86.ActiveCfg = Debug|Win32
+		{6A82F84E-C202-4A9D-8A9F-3B65DA9CE311}.Debug|x86.Build.0 = Debug|Win32
+		{6A82F84E-C202-4A9D-8A9F-3B65DA9CE311}.Release|x64.ActiveCfg = Release|x64
+		{6A82F84E-C202-4A9D-8A9F-3B65DA9CE311}.Release|x64.Build.0 = Release|x64
+		{6A82F84E-C202-4A9D-8A9F-3B65DA9CE311}.Release|x86.ActiveCfg = Release|Win32
+		{6A82F84E-C202-4A9D-8A9F-3B65DA9CE311}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
