@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Two Strings", "Projects\Two
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Min Number of Swaps", "Min Number of Swaps\Min Number of Swaps.vcxproj", "{54C93905-F2B3-44BF-9306-6F7991458DE8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Diagonal Difference", "Diagonal Difference\Diagonal Difference.vcxproj", "{37385F1A-367A-4DFD-BFBB-63273C554134}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{54C93905-F2B3-44BF-9306-6F7991458DE8}.Release|x64.Build.0 = Release|x64
 		{54C93905-F2B3-44BF-9306-6F7991458DE8}.Release|x86.ActiveCfg = Release|Win32
 		{54C93905-F2B3-44BF-9306-6F7991458DE8}.Release|x86.Build.0 = Release|Win32
+		{37385F1A-367A-4DFD-BFBB-63273C554134}.Debug|x64.ActiveCfg = Debug|x64
+		{37385F1A-367A-4DFD-BFBB-63273C554134}.Debug|x64.Build.0 = Debug|x64
+		{37385F1A-367A-4DFD-BFBB-63273C554134}.Debug|x86.ActiveCfg = Debug|Win32
+		{37385F1A-367A-4DFD-BFBB-63273C554134}.Debug|x86.Build.0 = Debug|Win32
+		{37385F1A-367A-4DFD-BFBB-63273C554134}.Release|x64.ActiveCfg = Release|x64
+		{37385F1A-367A-4DFD-BFBB-63273C554134}.Release|x64.Build.0 = Release|x64
+		{37385F1A-367A-4DFD-BFBB-63273C554134}.Release|x86.ActiveCfg = Release|Win32
+		{37385F1A-367A-4DFD-BFBB-63273C554134}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

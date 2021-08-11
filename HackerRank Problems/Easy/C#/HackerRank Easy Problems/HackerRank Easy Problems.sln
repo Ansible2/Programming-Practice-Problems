@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jumping On The Clouds", "Pr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two Strings", "Two Strings\Two Strings.csproj", "{06864253-2237-4A26-9BA0-4F89502B1449}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Min Number of Swaps", "Min Number of Swaps\Min Number of Swaps.csproj", "{15BBDE6D-7DC1-4EA6-BCBC-87B0298558A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Min Number of Swaps", "Min Number of Swaps\Min Number of Swaps.csproj", "{15BBDE6D-7DC1-4EA6-BCBC-87B0298558A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonal Difference", "Diagonal Difference\Diagonal Difference.csproj", "{C7825B92-D551-488A-B69F-A1A9C586BF39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{15BBDE6D-7DC1-4EA6-BCBC-87B0298558A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15BBDE6D-7DC1-4EA6-BCBC-87B0298558A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15BBDE6D-7DC1-4EA6-BCBC-87B0298558A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7825B92-D551-488A-B69F-A1A9C586BF39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7825B92-D551-488A-B69F-A1A9C586BF39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7825B92-D551-488A-B69F-A1A9C586BF39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7825B92-D551-488A-B69F-A1A9C586BF39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
