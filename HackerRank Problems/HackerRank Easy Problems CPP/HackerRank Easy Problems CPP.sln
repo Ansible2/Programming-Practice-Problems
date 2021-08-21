@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Diagonal Difference", "Proj
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Counting Valleys", "Projects\Counting Valleys\Counting Valleys.vcxproj", "{DA9847D8-5093-4A51-B9A5-D69DE89137C5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Grading Students", "Projects\Grading Students\Grading Students.vcxproj", "{1F211379-3D78-407E-B52F-F021EBE9A97B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{DA9847D8-5093-4A51-B9A5-D69DE89137C5}.Release|x64.Build.0 = Release|x64
 		{DA9847D8-5093-4A51-B9A5-D69DE89137C5}.Release|x86.ActiveCfg = Release|Win32
 		{DA9847D8-5093-4A51-B9A5-D69DE89137C5}.Release|x86.Build.0 = Release|Win32
+		{1F211379-3D78-407E-B52F-F021EBE9A97B}.Debug|x64.ActiveCfg = Debug|x64
+		{1F211379-3D78-407E-B52F-F021EBE9A97B}.Debug|x64.Build.0 = Debug|x64
+		{1F211379-3D78-407E-B52F-F021EBE9A97B}.Debug|x86.ActiveCfg = Debug|Win32
+		{1F211379-3D78-407E-B52F-F021EBE9A97B}.Debug|x86.Build.0 = Debug|Win32
+		{1F211379-3D78-407E-B52F-F021EBE9A97B}.Release|x64.ActiveCfg = Release|x64
+		{1F211379-3D78-407E-B52F-F021EBE9A97B}.Release|x64.Build.0 = Release|x64
+		{1F211379-3D78-407E-B52F-F021EBE9A97B}.Release|x86.ActiveCfg = Release|Win32
+		{1F211379-3D78-407E-B52F-F021EBE9A97B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
