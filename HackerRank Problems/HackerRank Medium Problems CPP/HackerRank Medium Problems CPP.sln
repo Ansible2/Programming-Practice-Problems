@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Min Number of Swaps", "Projects\Min Number of Swaps\Min Number of Swaps.vcxproj", "{54C93905-F2B3-44BF-9306-6F7991458DE8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Climbing The Leaderboard", "Projects\Climbing The Leaderboard\Climbing The Leaderboard.vcxproj", "{808500C5-2A1B-4197-948C-CAEACEB932D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{54C93905-F2B3-44BF-9306-6F7991458DE8}.Release|x64.Build.0 = Release|x64
 		{54C93905-F2B3-44BF-9306-6F7991458DE8}.Release|x86.ActiveCfg = Release|Win32
 		{54C93905-F2B3-44BF-9306-6F7991458DE8}.Release|x86.Build.0 = Release|Win32
+		{808500C5-2A1B-4197-948C-CAEACEB932D3}.Debug|x64.ActiveCfg = Debug|x64
+		{808500C5-2A1B-4197-948C-CAEACEB932D3}.Debug|x64.Build.0 = Debug|x64
+		{808500C5-2A1B-4197-948C-CAEACEB932D3}.Debug|x86.ActiveCfg = Debug|Win32
+		{808500C5-2A1B-4197-948C-CAEACEB932D3}.Debug|x86.Build.0 = Debug|Win32
+		{808500C5-2A1B-4197-948C-CAEACEB932D3}.Release|x64.ActiveCfg = Release|x64
+		{808500C5-2A1B-4197-948C-CAEACEB932D3}.Release|x64.Build.0 = Release|x64
+		{808500C5-2A1B-4197-948C-CAEACEB932D3}.Release|x86.ActiveCfg = Release|Win32
+		{808500C5-2A1B-4197-948C-CAEACEB932D3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
