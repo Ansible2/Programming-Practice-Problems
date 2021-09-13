@@ -20,6 +20,29 @@ vector<string> split(const string&);
  *  3. INTEGER s
  */
 
+
+int saveThePrisoner(int numberOfPrisoners, int numberOfSweets, int startingChairNumber) {
+    return ((numberOfSweets - 1) + (startingChairNumber - 1)) % numberOfPrisoners + 1;
+}
+
+// slow loop approach
+/*
+int saveThePrisoner(int numberOfPrisoners, int numberOfSweets, int startingChairNumber) {
+    int currentChairNumber = startingChairNumber;
+    for (int candiesPassedOut = 1; candiesPassedOut < numberOfSweets; candiesPassedOut++) {
+        
+        if (currentChairNumber > numberOfPrisoners) {
+            currentChairNumber = 1;
+        }
+        currentChairNumber++;
+    }
+
+    return currentChairNumber;
+}
+*/
+
+// oop slow approach
+/*
 class prisoner
 {
 private:
@@ -52,7 +75,7 @@ public:
     }
 
     ~prisoner() {
-        cout << "deconstructor called" << endl;
+        //cout << "deconstructor called" << endl;
     }
 
 };
@@ -111,10 +134,15 @@ int saveThePrisoner(int numberOfPrisoners, int numberOfSweets, int startingChair
 
     return prisonerToSave;
 }
+*/
+
 
 int main()
 {
-    cout << saveThePrisoner(4,6,2);
+    cout << saveThePrisoner(5,2,2) << endl;
+    cout << saveThePrisoner(7,19,2) << endl;
+    cout << saveThePrisoner(3,7,3) << endl;
+
 
     /*
     ofstream fout(getenv("OUTPUT_PATH"));
