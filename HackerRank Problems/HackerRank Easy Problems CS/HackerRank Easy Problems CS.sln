@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Counting Valleys", "Project
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grading Students", "Projects\Grading Students\Grading Students.csproj", "{084A2F22-F6E0-4519-9CCC-BA15A50297CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apple and Orange", "Projects\Apple and Orange\Apple and Orange.csproj", "{0F1E70F6-6DA8-4CC6-BB77-2D47666A7A07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apple and Orange", "Projects\Apple and Orange\Apple and Orange.csproj", "{0F1E70F6-6DA8-4CC6-BB77-2D47666A7A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Between Two Sets", "Projects\Between Two Sets\Between Two Sets.csproj", "{C384E1FD-282C-43CF-832B-36A1B89340DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{0F1E70F6-6DA8-4CC6-BB77-2D47666A7A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F1E70F6-6DA8-4CC6-BB77-2D47666A7A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F1E70F6-6DA8-4CC6-BB77-2D47666A7A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C384E1FD-282C-43CF-832B-36A1B89340DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C384E1FD-282C-43CF-832B-36A1B89340DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C384E1FD-282C-43CF-832B-36A1B89340DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C384E1FD-282C-43CF-832B-36A1B89340DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
